@@ -1,0 +1,12 @@
+ Volume in drive C has no label.
+ Volume Serial Number is DAA5-580B
+
+ Directory of C:\Users\user\Downloads\hello
+
+08/27/2017  10:17 PM    <DIR>          .
+08/27/2017  10:17 PM    <DIR>          ..
+08/27/2017  10:17 PM                 0 abc.txt
+08/27/2017  10:05 PM               435 helloworld.class
+08/27/2017  10:05 PM               127 helloworld.java
+               3 File(s)            562 bytes
+               2 Dir(s)  150,087,708,672 bytes free
